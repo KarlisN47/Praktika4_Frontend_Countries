@@ -28,8 +28,8 @@ Ensure you have Node.js and npm installed on your system.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/world-countries.git
-   cd world-countries
+   git clone https://github.com/KarlisN47/Praktika4_Frontend_Countries.git
+   cd Praktika4_Frontend_Countries
    ```
 
 2. Install dependencies:
